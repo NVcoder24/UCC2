@@ -1,5 +1,5 @@
 # UCC2
-universal character controller for unity engine (second itteration)
+Unity Character Controller 2 (UCC2)
 
 Physics (Rigidbody) based character controller
 
