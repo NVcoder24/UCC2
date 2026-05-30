@@ -1,6 +1,8 @@
 # UCC2
 universal character controller for unity engine (second itteration)
 
+Physics (Rigidbody) based character controller
+
 ## Features
 ### Base
 - Camera rotation
